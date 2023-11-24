@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "tienda-avocado",
-  "private_key_id": "59578ea682067aad1aecdb57b632bb1a6f7c012d",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiaIMhGXuThnUw\nM7Tsq5IrP5mnJ6gav7ZMLJR6hX63UucJQZgTaK0Y6RKvReUq1CYuEBllJrF44FbN\nf8ahn9YEEZXl39Y0G8HCj4zBNP4lCrXRx5ShobE6S96wyPEhyLAYtynqJefpAm93\nYIOFSZNpDBkuAtuOlIOWZdGHk8R2+pHpwXZoMZAI7d8mPqvdT3XHhzwgZshZ8BC1\nFsEAQUyCq8YT8aiD94Dtt2pB8GIK7+q7RCG+vyEv/Iwtjwlc9T+Aeie/tZntXfEr\nl2h0xFlA87qSuXhhrkoZ5wSmuu0Y1Ce08xr6Ngxci9BbdhDJDfWcLrWyvAb8JPNS\n1stQgybFAgMBAAECggEAS5KWcjCJcHyAy41EA11TBwzxUvcBInFTQt77uIemD2hk\nWcpMGbv70DuklirQGL3fhk+3gXof2z+JJNbwdwUJcZs9RVqDMnw4DXD+7mjaWiJB\nuPxGDXBQJ/BmD51xl2bripSwzGQXJjYb6FDg4oT6M0eN7/skb5RsJu/6MDxyj2oL\n0JdGoZOAjAQHJo1Q+QBM/j8m9+QFuNGDpTMSgs6UkjnOigfrPHML6YQgZvY5HHow\nGRI16hr+j/8GI0tNQmcO92m2kLCRxXDDEA8IbpM48ve3n0U2cjj9cSNefJPBnSYm\nUSNYUjvregOREVvuPjN3wcSzbhU2ke3wndFVabvtgQKBgQDURj8Y4LVJbtCG6Y3f\nbslHAjzbIAk/jboyLEhlaMMUwvUK7lktVcMu1NXp3qFb2WQ2nr0POWX0Tlgoz+H+\nf2MmkzI9/xCJ93xfWzizys5hps6eP/z3rR8FUX0Gp7b9dvjSxGVBW0PUmU3ZvcPt\nUFRJXoB29q7fiz5fX3nYiAMsjwKBgQDD3LNUL/Z7hndxIWM8qgOUl4Wzi2vKoy8u\n7myl0T0DoPhE62JPFtkvvfNqiUN5AhsLQMXODWZD5BR83any18JN2+G31c5o9Zdb\ni3MvLVroPQ+IHhzByNh4z6j87A73AwizTOFQLBK9n2N6Vd0fOQv03DMJY5nf7TyE\nRYvL37mJawKBgD6h73Iesz7UhJCaDvNTE+5wuZYKENCAt+Sf7kiFrbHNiFHOW9+l\ng26o++kCeGfKb+gx1CTO0cdQ6nA4Tj0yRwYVvmhOfwnGTRsxpjxeZaCogCRvSuul\nWBbQoWw6RiLpXKeLrTiofg4XocHSXSIDZqszSAJR7O0mf6PSXvhFwXH/AoGAIQki\nvjpwypj9oHlPMbZDcFa2WHhVsBIiLTpN3RITxn7qIUXKiSiDbYgOfJO2a7ytLxK3\nym98JktcIUuKFMnLnjJOOiG39QAnjWtR/E0cHjveWMkrdIwZ5xavnCl8xLEgUI3R\nGyKz7oPp1YKSD2gh2iUh/p1sINb09CJ+195efw0CgYAo51S9tLQErspZd7WXxeQh\neRe1TRcK7McjfcpCvzH5vSexTQ4xSOqXmVkFHRILU3PBAVjhbJbK9nIbl0r/TlCf\nfGlPJ8k3rSFnF0YD1ui9wfMs/elIbwjI18/yGK1qljZq5Rro6hO60KcFfEtvRIdM\nMgWKVFCn4DnBNUheAoWwFQ==\n-----END PRIVATE KEY-----\n",
-  "client_email": "tiendaavocado@tienda-avocado.iam.gserviceaccount.com",
-  "client_id": "103637462039496026791",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tiendaavocado%40tienda-avocado.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
